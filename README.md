@@ -31,7 +31,7 @@ Open your browser and go to http://localhost:3000 to see the portfolio in action
 
 GitHub: @Nondumison
 LinkedIn: Nondumiso Nkosi
-Email: nondumiso.nkosi@example.com
+Email: nondumiso.nkosi@umuzi.org
 
 
 
