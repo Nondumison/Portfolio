@@ -205,7 +205,7 @@ const Home = () => (
             {[
               { skill: "React.js", icon: "⚛️" },
               { skill: "JavaScript", icon: "💻" },
-              { skill: "Material UI", icon: "🎨" },
+              { skill: "MUI", icon: "🎨" },
               { skill: "Node.js", icon: "🌐" },
             ].map((item, index) => (
               <Grid item key={index} xs={6} sm={3}>
