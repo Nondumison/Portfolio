@@ -190,7 +190,7 @@ const Home = () => (
               variant="body2"
               sx={{ color: "#AFAFAF", textAlign: "center" }}
             >
-              — Former Manager at Eldo Energy
+              — Kera Former Colleague at Eldo Energy
             </Typography>
           </Card>
         </Box>
